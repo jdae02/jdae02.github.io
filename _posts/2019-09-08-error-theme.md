@@ -2,7 +2,7 @@
 layout: post
 title:  "Failed at the node-sass@3.13.1 postinstall script"
 date:   2019-09-08
-categories: error jekyll
+categories: error
 ---
 
 Jekyll [LONG HAUL][long-haul] 테마를 설치하던 중 에러가 발생했다.
