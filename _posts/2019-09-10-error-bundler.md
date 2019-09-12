@@ -3,6 +3,7 @@ layout: post
 title: "(Bundler::GemNotFound)"
 date: 2019-09-10
 categories: error jekyll
+tags: [error, jekyll]
 render_with_liquid: false
 ---
 
